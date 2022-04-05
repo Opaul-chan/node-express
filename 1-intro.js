@@ -7,4 +7,3 @@ if (amount < 10) {
 }
 
 console.log(`hi my first mode`);
-//Global -no window
